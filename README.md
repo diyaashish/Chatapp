@@ -4,7 +4,7 @@ A Chatting application
 This project was bootstrapped with Create React App.
 
 On the client side : 
-cd client
+cd client ;
 npm run start:frontend
 
 To start on a static server : 
@@ -12,7 +12,7 @@ serve -s build
 
 
 On the server side : 
-cd server
+cd server ;
 npm run start:backend
 
 This is a, 
