@@ -19,3 +19,7 @@ This is a,
 A geosocial networking application that connects the users to people with common interests and lets them chat and use various other features for the purpose. People can have profiles which include their photos, a short bio, and a list of their interests. Thus using a blend of programming, multiple coding languages, code optimisation, APIs,software design, distributed systems and computing and information retrieval.
 
 Skills used : React.js, Node.js, HTML, CSS, JavaScript, SQL, UI/UX, RestAPI and a VCS(Git).
+
+
+![image](https://github.com/diyaashish/Chatapp/assets/73493994/778545c4-bae4-4fa9-9b30-c97790457e5e)
+
